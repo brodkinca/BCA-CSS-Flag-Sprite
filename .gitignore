@@ -1,2 +1,1 @@
-!.gitignore
-.sass-cache
+node_modules
